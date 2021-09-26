@@ -1,7 +1,7 @@
 {
-  "name": "start-point/etcd-php",
+  "name": "yinge/etcd-php",
   "type": "library",
-  "description": "PHP client for Etcd v3",
+  "description": "PHP client for Etcd v3 fork by https://github.com/ouqiang/etcd-php",
   "keywords": ["etcdv3", "etcd", "etcd-client", "etcd-php"],
   "homepage": "https://github.com/ouqiang/etcd-php",
   "license": "MIT",
